@@ -11,9 +11,11 @@ You need a web browser and a code editor to run this project.
 
 To get started with the project, follow the below steps:
 
-    Clone the repository to your local machine using https://github.com/iiitl/Sean-Halpin-Portfolio.git.
+Clone the repository to your local machine using 
+    
+    git clone https://github.com/iiitl/Sean-Halpin-Portfolio.git.
 
-    Open the index.html file in a web browser.
+Open the index.html file in a web browser.
 
 ## Contributing
 
